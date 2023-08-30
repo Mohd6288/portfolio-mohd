@@ -1,21 +1,21 @@
-Curriculum Vitae
+#Curriculum Vitae
 
-Mohammed Alkhalifa
-Address: London, UK
-Phone: 07774486820
-Email: M.alkhaliafah@hotmail.com
-LinkedIn: [Your LinkedIn Profile (if applicable)]
+#Mohammed Alkhalifa
+#Address: London, UK
+#Phone: 07774486820
+#Email: M.alkhaliafah@hotmail.com
+#LinkedIn: [Your LinkedIn Profile (if applicable)]
 
-Objective:
+#Objective:
 As a creative computing student at Goldsmiths, University of London, I am seeking opportunities for summer internships or similar programs. With a strong foundation in creative computing, including coursework in sound and signals, graphics, web development, and a passion for UI/UX design, programming, and generative art, I aim to leverage my skills and experiences to contribute effectively in a professional setting.
 
-Education:
+#Education:
 
 BA Creative Computing (Expected Graduation: 2025)
 Goldsmiths, University of London
-Professional Experience:
 
-Area Operator  2012-2020
+#Professional Experience:
+Area Operator 2012–2020 (SADARA Chemical Company)
 
 Managed day-to-day operations in an ethylene oxide plant, ensuring safety protocols and production targets were met.
 Oversaw equipment maintenance, troubleshooting, and process optimization.
@@ -28,7 +28,8 @@ Reported and documented any near-miss incidents or potential hazards.
 Managed plant inventory and organized stock for efficient operation.
 Played a key role in the successful execution of plant turnarounds, including participating in construction commissioning, startup, turnaround, and normal operation phases.
 completed the Firefighting and Immediate Response Course, including SCBA usage and first aid techniques.
-Certificates and Courses:
+
+#Certificates and Courses:
 
 Web Development:
 
@@ -69,21 +70,22 @@ Explored techniques for creating mobile-friendly and responsive websites.
 
 
 
-Skills:
+#Skills:
 
 User Interface (UI) and User Experience (UX) Design
 Application Development
 Web Development (HTML, CSS, JavaScript)
 Python, JavaScript, and C++ Programming
 Generative Art and Creative Coding
-Projects:
+
+#Projects:
 [Include your relevant projects here]
 
-Languages:
+#Languages:
 
 English (Fluent)
 Arabic (Fluent)
-Interests:
+#Interests:
 
 Exploring the synergy between technology and art
 Participating in hackathons and coding challenges
